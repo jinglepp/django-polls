@@ -1,0 +1,26 @@
+#poll_list a {
+    color: white;
+    text-decoration: none;
+}
+
+#poll_list a:hover {
+    text-decoration: underline;
+}
+
+#poll_list div {
+    padding-left: 16px;
+    text-align: left;
+    line-height: 32px;
+    width: 200px;
+    height: 32px;
+    background-color: #4e6a8e;
+    overflow: hidden;
+}
+
+#poll_list div:hover {
+    background-color: #6684b4;
+}
+
+body {
+    background: #fff url("images/backgound.png");
+}
